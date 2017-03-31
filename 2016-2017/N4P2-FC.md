@@ -27,11 +27,16 @@ Description / proposition de valeur unique
 
 ## Équipe
 
-* Nom Prénom
-* etc.
+* Bouderka Rabah
+* Legay Nicolas
+* Bocquet Florantin
+* Messuve Ludovic
+* Lisi Gianni
+* Loriette Audrey
+* Hourdin Franck
 
 ## Resources
 
-* git serveur + js : 
-* git android : 
-* URL de publication : 
+* git serveur + js :  https://git-iut.univ-lille1.fr/hourdinf/Projet-Agile-2
+* git android :   https://git-iut.univ-lille1.fr/hourdinf/Projet-agile-android
+* URL de publication : /
